@@ -1,0 +1,27 @@
+form{
+    background-color: grey;
+    border: 2px solid red;
+    margin: 50px 250px;
+    border-radius: 10px;
+    width: 350px;
+}
+label{
+    width: 100vw;
+    margin: 20px 150px;
+}
+input{
+    width: auto;
+    margin: 10px 100px;
+    border: 2px solid blue;
+}
+.ip1{
+    background-color: white;
+
+}
+textarea{
+    margin: 10px 100px;
+    width: 175px;
+    border: 2px solid yellowgreen;
+}
+
+
